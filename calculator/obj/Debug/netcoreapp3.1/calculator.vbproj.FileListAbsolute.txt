@@ -1,0 +1,16 @@
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.vbproj.AssemblyReference.cache
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.Form1.resources
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.vbproj.GenerateResource.cache
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.vb
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
+C:\Users\patelsha002\Documents\Repo\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.Resources.resources
